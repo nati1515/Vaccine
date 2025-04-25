@@ -1,5 +1,5 @@
 ---
-title: "Humap pappiloma virus(HPV) Vaccine hesitancy accross 10 Human Health Services (HHS) Region in the United States"
+title: "Human papillomavirus(HPV) Vaccine hesitancy accross 10 Human Health Services (HHS) Region in the United States"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
