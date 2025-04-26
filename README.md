@@ -22,3 +22,6 @@ This folder contains:
 1. Code: The RMD file contains the code that is used to develop the dashboard
 2. HTML file: An online accessible html file containing interactive and project descriptive dashboard
 3. README File: Readme file that contains the description for the repository
+
+# Deployment
+The dashboard can be see using this link: https://nati1515.github.io/Vaccine/project.html
